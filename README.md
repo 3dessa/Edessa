@@ -1,1 +1,1 @@
-# Edessa
+# Edessa is a personal brand made by me and is meant to be the name of all projects I will be working on. The first project I will be working on for the next 2 years is a 2D videogame caleed, "This is Francis." It is an rpg adventure game with a similar/inspired style from the nintendo game "Earthbound." This will be my first time coding a video game, so I am interested in seeing how I do and how the game will turn out.
